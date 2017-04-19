@@ -1,4 +1,9 @@
-Nome artefato: iniciacao_rodrigo.txt
+﻿Nome artefato: iniciacao_rodrigo.txt
 Nome do(a) autor(a): Rodrigo Araújo Leonardo
 Data de criação: 18/04/2017
 Hora de criação: 23:34:20
+
+Nome artefato: iniciacao_rodrigo.txt
+Nome do(a) autor(a): Dayan Costa
+Data de criação: 19/04/2017
+Hora de criação: 00:35:52
