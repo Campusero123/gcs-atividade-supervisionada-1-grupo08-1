@@ -7,3 +7,8 @@ Nome artefato: planejamento_rodrigo.txt
 Nome do(a) autor(a): Dayan Costa
 Data de criação: 19/04/2017
 Hora de criação: 00:36:37
+
+Nome artefato: planejamento_rodrigo.txt 
+Nome do(a) autor(a) da alteração: Augusto Falcão
+Data da alteração: 19/04/2017
+Hora da alteração: 00:48
