@@ -1,4 +1,6 @@
 Nome artefato: Requisitos_Augusto.txt 
 Nome do(a) autor(a): Augusto Falcão 
 Data de criação: 20/04/2017
-Hora de criação: 10:32:14
+Hora de criação: 10:32:14 -> Nova hora editada: 11:40:06
+
+Alteração passo 13.
