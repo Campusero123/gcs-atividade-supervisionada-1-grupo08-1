@@ -1,0 +1,6 @@
+Nome artefato: requisitos02_rodrigo.txt
+Nome do(a) autor(a): Rodrigo Araújo Leonado 
+Data de criação: 20/04/2017
+Hora de criação: 12:15:40 
+
+documento criado no trunk

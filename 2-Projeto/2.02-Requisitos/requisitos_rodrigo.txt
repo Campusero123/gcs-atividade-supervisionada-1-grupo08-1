@@ -1,0 +1,10 @@
+Nome artefato: requisitos_rodrigo.txt
+Nome do(a) autor(a): Rodrigo Araújo Leonado 
+Data de criação: 20/04/2017
+Hora de criação: 08:52:40 teste
+Teste de alteração 2
+Teste de alteração do documento 3
+
+
+
+Teste

@@ -1,4 +1,14 @@
-Nome artefato: Inicia��o - Dayan.txt
+Nome artefato: Iniciação - Dayan.txt
 Nome do(a) autor(a): Dayan Costa
-Data de cria��o: 18/04/2017
-Hora de cria��o: 23:30:22
+Data de criação: 18/04/2017
+Hora de criação: 23:30:22
+
+Nome artefato: Iniciação - Dayan.txt
+Nome do(a) autor(a) da alteração: Rodrigo Araújo Leonardo
+Data da alteração: 19/04/2017
+Hora da alteração: 00:39:20
+
+Nome artefato: Iniciação - Dayan.txt 
+Nome do(a) autor(a) da alteração: Augusto Falcão
+Data da alteração: 19/04/2017
+Hora da alteração: 00:43

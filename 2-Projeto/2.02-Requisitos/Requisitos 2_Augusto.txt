@@ -1,0 +1,6 @@
+Nomeartefato: Requisitos 2_Augusto.txt 
+Nome do(a) autor(a): Augusto Falcão
+Data de criação: 20/04/2017
+Hora de criação: 15:00:32
+
+Documento criado no ramo 2.
